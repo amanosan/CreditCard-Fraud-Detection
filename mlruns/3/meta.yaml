@@ -1,0 +1,4 @@
+artifact_location: file:///D:/Machine%20Learning/MACHINE%20LEARNING%20PROJECTS/credit_card_fraud_detection/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: logreg_creditcard_guided_search

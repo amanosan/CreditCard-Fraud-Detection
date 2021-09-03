@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine%20Learning/MACHINE%20LEARNING%20PROJECTS/credit_card_fraud_detection/mlruns/3/00e183baae284bc5b4e013768c53d1b3/artifacts
+end_time: 1626548563036
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 00e183baae284bc5b4e013768c53d1b3
+run_uuid: 00e183baae284bc5b4e013768c53d1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626548562412
+status: 3
+tags: []
+user_id: AMAN OSSAN
